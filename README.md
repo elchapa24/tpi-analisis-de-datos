@@ -1,4 +1,5 @@
-TPI - Análisis de Datos: Telco Customer Churn
+#TPI - Análisis de Datos: Telco Customer Churn
+
 Descripción del Proyecto y Problema de Negocio
 Este proyecto de análisis de datos aborda un caso de estudio sobre un servicio de telecomunicaciones utilizando el dataset histórico de clientes (Telco Customer Churn)[cite: 3]. El objetivo principal es examinar e integrar variables sociodemográficas, características de contratación y el desglose de facturación para identificar los factores determinantes que impulsan la cancelación del servicio (Churn) por parte de los usuarios[cite: 3].
 
