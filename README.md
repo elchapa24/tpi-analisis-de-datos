@@ -8,6 +8,8 @@ Este proyecto de análisis de datos aborda un caso de estudio sobre un servicio 
 - **Integrantes:**
   - Manuel Duarte
   - Ezequiel Echevarria
+  - Gonzalo Garcez
+  - Julian Blanco
 
 ## Ejecución en Google Colab
 Para ver y ejecutar el análisis completo, hacé clic en el siguiente botón:
